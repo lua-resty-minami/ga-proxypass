@@ -13,6 +13,7 @@ Table of Contents
 * [Copyright and License](#copyright-and-license)
 * [See Also](#see-also)
 * [According](#according)
+* [Issue](#issue)
 
 
 Status
@@ -103,3 +104,8 @@ See Also
 According
 ========
 https://sometimesnaive.org/article/76
+
+
+Issue
+========
+this repo have a problem, which contributes to a further pharse between `if` and `access_by_lua` conception, `if` is earlier, which will results in a non-updated(incorrectly) cookie taken. so this repo doesn't work well.
